@@ -1,0 +1,71 @@
+
+*{
+    background-color: black;
+   
+
+
+}
+
+div{
+    align-content: center;
+    
+}
+h1{
+    margin-left: 45%;
+    color: blue;
+    font-size:40px;
+    background-color: aliceblue;
+    
+}
+h2{
+    margin-right: 55%;
+    color:plum;
+    margin-top: 0px;
+    background-color: aliceblue;
+    font-size: 40px;
+}
+p{
+    color: beige;
+}
+li{
+    color: aqua;
+    font-size: 15px;
+}
+#yt{
+color: aliceblue;
+font-size: 30px;
+
+}
+#insta{
+color: aliceblue;
+font-size: 30px;
+
+}
+#telegram{
+    color: aliceblue;
+    font-size: 30px;
+    
+}
+#links{
+    margin-left: 700px;
+    height: 300px;
+    width: 300px;
+    border: 5px solid whitesmoke;
+    border-radius: 50%;
+    padding: 30px;
+    
+}
+#circle{
+    padding: 30px;
+}
+.videos{
+    color: aliceblue;
+    font-size: 25px;
+}
+li.class{
+    color: aliceblue;
+    font-size: 25px;
+}
+#project{
+    margin-left: 700px;
+}
